@@ -16,16 +16,16 @@
 
 ### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=flat-square&logo=TypeScript&logoColor=white)
-![Markdown](https://img.shields.io/badge/MarkDown-2C8EBB?style=flat-square&logo=Markdown&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4FC08D?style=flat-square&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2f74c0?style=flat-square&logo=Redis&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-23aaf2?style=flat-square&logo=Spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-2C8EBB?style=flat-square&logo=MyBatis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-ef4a00?style=flat-square&logo=Elasticsearch&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-339933?style=flat-square&logo=Maven&logoColor=white)
+![MQ](https://img.shields.io/badge/MQ-61DAFB?style=flat-square&logo=MQ&logoColor=white)
+![Go](https://img.shields.io/badge/Go-f69220?style=flat-square&logo=Go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-23aaf2?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Stylus](https://img.shields.io/badge/Stylus-61DAFB?style=flat-square&logo=Stylus&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-ef4a00?style=flat-square&logo=Rust&logoColor=white)
 
 ### My GitHub Stats
 
