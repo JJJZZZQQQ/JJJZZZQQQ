@@ -12,7 +12,7 @@
 * 💻 一枚野生后端程序猿
 * 😂 Interested in Front-end, Product, Operate.
 * 🦄 Enjoy Java, GoLang and Vue.
-* 💨 Visit [All Side|知识总结](https://jjjzzzqqq.github.io) for more information.
+
 
 ### Languages and Tools:
 
